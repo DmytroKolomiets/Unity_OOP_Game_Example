@@ -12,3 +12,5 @@
 - SmallEnemy(убегает от игрока, но если рядом есть стена или BigEnemy нападает)
 - AgressiveEnemy(нападает на игрока, но убегает если рядом BigEnemy или SmallEnemy)
 - Point(загадочно мерцает и ждет AgressiveEnemy, чтобы сменить сцену)
+
+Unity 2019.2.10f1
